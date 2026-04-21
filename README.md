@@ -10,7 +10,7 @@
 
 ### 🛠️ Стек и технологии
 
-**Языки:** Python, C++, JavaScript, Go, Java (изучаю), C# (база)
+**Языки:** Python, C++, JavaScript, Go, C# (база)
 
 **Бэкенд:** FastAPI, Django (изучаю), REST API, SQL, PostgreSQL, Docker
 
