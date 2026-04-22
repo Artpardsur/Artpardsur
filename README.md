@@ -12,7 +12,7 @@
 
 **Языки:** Python, C++, JavaScript, Go, C# (база)
 
-**Бэкенд:** FastAPI, Django (изучаю), REST API, SQL, PostgreSQL, Docker
+**Бэкенд:** FastAPI, Django (изучаю), REST API, SQL, PostgreSQL, MySQL, NoSQL,Docker
 
 **Фронтенд:** HTML, CSS, JavaScript, React (база)
 
